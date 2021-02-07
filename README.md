@@ -23,3 +23,4 @@ This is a starter setup to build any react web project with webpack, babel and t
 - Babel
 - TypeScript
 - Live-server
+- prettier, tslint, husky
