@@ -14,3 +14,12 @@ This is a starter setup to build any react web project with webpack, babel and t
 
     $ npm run start:prod
     
+## Languages & tools
+
+### Front End / JavaScript
+
+- React, JSX 
+- Webpack 5
+- Babel
+- TypeScript
+- Live-server
